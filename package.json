@@ -1,0 +1,12 @@
+{
+  "name": "electron-run-in-browser",
+  "version": "1.0.0",
+  "description": "electron helper: run some js in a BrowserWindow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["electron"],
+  "author": "joshwnj",
+  "license": "MIT"
+}
